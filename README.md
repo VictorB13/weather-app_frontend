@@ -11,8 +11,7 @@ This is the Frontend service for displaying weather data from the backend servic
 
 ## Local installation (Without Docker):
 ``` bash
-cd frontend
-git clone <frontend repo url>
+git clone https://github.com/VictorB13/weather-app_frontend.git
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirments.txt #install dependencies
